@@ -2,4 +2,4 @@
 
 Link to the dataset: https://www.kaggle.com/manjeetsingh/retaildataset
 
-Used tools: Pandas, Numpy, SKlean, XGBoost, Matplotlib & Seaborn
+Used tools: Pandas, Numpy, SKlearn, XGBoost, Matplotlib & Seaborn
